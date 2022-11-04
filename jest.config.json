@@ -1,0 +1,6 @@
+{
+  "clearMocks": true,
+ "transform": {
+    "\\.[j]s?$": "babel-jest"
+  }
+}
